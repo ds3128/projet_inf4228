@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : mar. 20 juin 2023 à 21:49
+-- Généré le : mer. 21 juin 2023 à 07:42
 -- Version du serveur : 10.4.27-MariaDB
 -- Version de PHP : 8.2.0
 
@@ -118,7 +118,6 @@ CREATE TABLE `etudiant` (
 --
 
 INSERT INTO `etudiant` (`matricule`, `idGrp`) VALUES
-('08T2510', 5),
 ('16U2076', 5),
 ('19M2070', 5),
 ('19M2219', 5),
